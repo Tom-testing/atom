@@ -83,3 +83,4 @@ repeat these steps to upgrade to future releases.
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
 When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+You can add stuff to other files by typing echo then puuting text in speech marks then two right facing arrows :)
